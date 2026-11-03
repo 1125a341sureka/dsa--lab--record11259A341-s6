@@ -1,0 +1,128 @@
+DSA LAB - EXPERIMENT OUTPUTS
+============================
+
+Experiment 1: Basic Array Operations
+Sample input:
+5
+10 20 30 40 50
+3
+1
+3 25
+3
+2
+4
+3
+4
+
+Output:
+Enter number of elements: Enter array elements:
+
+1. Insertion
+2. Deletion
+3. Traversal
+4. Exit
+Enter your choice: Array elements: 10 20 30 40 50
+
+1. Insertion
+2. Deletion
+3. Traversal
+4. Exit
+Enter your choice: Enter position and value: Element inserted successfully.
+
+1. Insertion
+2. Deletion
+3. Traversal
+4. Exit
+Enter your choice: Array elements: 10 20 25 30 40 50
+
+1. Insertion
+2. Deletion
+3. Traversal
+4. Exit
+Enter your choice: Enter position to delete: Element deleted successfully.
+
+1. Insertion
+2. Deletion
+3. Traversal
+4. Exit
+Enter your choice: Array elements: 10 20 25 40 50
+
+1. Insertion
+2. Deletion
+3. Traversal
+4. Exit
+Enter your choice: Exiting program.
+
+
+Experiment 2: Stack Operations
+Stack (top to bottom): 30 20 10
+Popped element: 30
+Top element: 20
+
+
+Experiment 3: Linear Queue Operations
+Queue (front to rear): 10 20 30
+Dequeued element: 10
+Queue after dequeue: 20 30
+
+
+Experiment 4: Singly Linked List
+Linked list: 10 -> 20 -> 30
+After deleting 20: 10 -> 30
+
+
+Experiment 5: Linear Search
+25 found at position 3.
+
+
+Experiment 6: Binary Search
+31 found at position 5.
+
+
+Experiment 7: Bubble Sort
+Sorted array (bubble sort): 11 12 22 25 34 64 90
+
+
+Experiment 8: Selection Sort
+Sorted array (selection sort): 11 12 22 25 64
+
+
+Experiment 9: Circular Queue
+Dequeued element: 10
+Circular queue: 20 30 40
+
+
+Experiment 10: Binary Search Tree Traversals
+Inorder traversal: 20 30 40 50 60 70 80
+Preorder traversal: 50 30 20 40 70 60 80
+Postorder traversal: 20 40 30 60 80 70 50
+
+
+Experiment 11: Breadth-First Search (BFS)
+Sample input:
+6 5
+0 1
+0 2
+1 3
+1 4
+2 5
+0
+
+Output:
+Enter number of vertices and edges: Enter each edge (two vertex numbers, 0 to 5):
+Enter starting vertex: Breadth-first traversal: 0 1 2 3 4 5
+
+
+Experiment 12: Depth-First Search (DFS)
+Sample input:
+6 5
+0 1
+0 2
+1 3
+1 4
+2 5
+0
+
+Output:
+Enter number of vertices and edges: Enter each edge (two vertex numbers, 0 to 5):
+Enter starting vertex: Depth-first traversal: 0 1 3 4 2 5
